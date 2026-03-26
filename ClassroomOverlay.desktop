@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Classroom Overlay
+Comment=Transparent classroom overlay tool
+Exec=python3 "/mnt/games/Backup (Distribute)/overlay/overlay.py"
+Path=/mnt/games/Backup (Distribute)/overlay
+Icon=/mnt/games/Backup (Distribute)/overlay/icon.ico
+Terminal=false
+Type=Application
+Categories=Education;Utility;

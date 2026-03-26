@@ -1,0 +1,130 @@
+{
+  "class_name": "5a",
+  "toolbar": {
+    "x": 580,
+    "y": 8,
+    "width": 1400
+  },
+  "panels": {
+    "text_editor": {
+      "x": 510,
+      "y": 108,
+      "width": 340,
+      "height": 32,
+      "visible": false,
+      "minimized": true
+    },
+    "student_list": {
+      "x": 4,
+      "y": 27,
+      "width": 414,
+      "height": 32,
+      "visible": false,
+      "minimized": true
+    },
+    "timer": {
+      "x": 1180,
+      "y": 379,
+      "width": 714,
+      "height": 379,
+      "visible": false,
+      "minimized": false
+    },
+    "random_name": {
+      "x": 1180,
+      "y": 400,
+      "width": 360,
+      "height": 450,
+      "visible": false,
+      "minimized": false
+    },
+    "traffic_light": {
+      "x": 465,
+      "y": 311,
+      "width": 382,
+      "height": 679,
+      "visible": false,
+      "minimized": false
+    },
+    "symbols": {
+      "x": 1180,
+      "y": 601,
+      "width": 440,
+      "height": 321,
+      "visible": false,
+      "minimized": false
+    },
+    "noise_monitor": {
+      "x": 1180,
+      "y": 477,
+      "width": 326,
+      "height": 554,
+      "visible": false,
+      "minimized": false
+    },
+    "qr_code": {
+      "x": 922,
+      "y": 444,
+      "width": 305,
+      "height": 410,
+      "visible": false,
+      "minimized": false
+    },
+    "help": {
+      "x": 1060,
+      "y": 80,
+      "width": 440,
+      "height": 500,
+      "visible": false,
+      "minimized": false
+    }
+  },
+  "text_content": "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n<html><head><meta name=\"qrichtext\" content=\"1\" /><meta charset=\"utf-8\" /><style type=\"text/css\">\np, li { white-space: pre-wrap; }\nhr { height: 1px; border-width: 0; }\nli.unchecked::marker { content: \"\\2610\"; }\nli.checked::marker { content: \"\\2612\"; }\n</style></head><body style=\" font-family:'Segoe UI'; font-size:14px; font-weight:400; font-style:normal;\">\n<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-weight:700;\">B200 GPU</span></p></body></html>",
+  "traffic_lights": {
+    "Max Mustermann": "green",
+    "Anna Schmidt": "red",
+    "Leon Weber": "green",
+    "Sophie Fischer": "red",
+    "Lukas Meyer": "green",
+    "Emma Wagner": "green",
+    "Felix Becker": "green",
+    "Mia Hoffmann": "red",
+    "Jonas Schulz": "red",
+    "Lena Koch": "red",
+    "asd ": "green",
+    "asd a": "green",
+    "sdqwe ": "green",
+    "qwe ": "green",
+    "qe ": "green",
+    "Tim Braun": "green",
+    "Laura Richter": "green",
+    "Niklas Wolf": "green",
+    "Hannah Schäfer": "green",
+    "David Neumann": "green",
+    "Sarah Schwarz": "green",
+    "Moritz Zimmermann": "green",
+    "Lea Krüger": "green",
+    "Paul Hartmann": "green",
+    "Marie Lange": "green",
+    "Jan Werner": "green",
+    "Clara Peters": "green",
+    "Alexander Müller": "yellow",
+    "Katharina Schneider": "green",
+    "Sebastian Bauer": "green",
+    "Julia König": "green",
+    "Maximilian Huber": "yellow",
+    "Sophia Frank": "red",
+    "Tobias Berger": "green",
+    "Amelie Roth": "red",
+    "false": "green"
+  },
+  "ampel_rules": {
+    "green": "asdasdasdasd",
+    "yellow": "",
+    "red": ""
+  },
+  "noise_thresholds": {
+    "yellow": 5,
+    "red": 10
+  }
+}

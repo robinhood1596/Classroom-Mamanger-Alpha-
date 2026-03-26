@@ -1,0 +1,146 @@
+{
+  "class_name": "7b",
+  "toolbar": {
+    "x": 375,
+    "y": 8,
+    "width": 1809
+  },
+  "panels": {
+    "text_editor": {
+      "x": 934,
+      "y": 278,
+      "width": 770,
+      "height": 32,
+      "visible": true,
+      "minimized": true
+    },
+    "student_list": {
+      "x": 4,
+      "y": 27,
+      "width": 260,
+      "height": 32,
+      "visible": true,
+      "minimized": true
+    },
+    "timer": {
+      "x": 1508,
+      "y": 438,
+      "width": 422,
+      "height": 515,
+      "visible": true,
+      "minimized": false
+    },
+    "random_name": {
+      "x": 2160,
+      "y": 400,
+      "width": 360,
+      "height": 450,
+      "visible": false,
+      "minimized": false
+    },
+    "traffic_light": {
+      "x": 30,
+      "y": 70,
+      "width": 348,
+      "height": 524,
+      "visible": false,
+      "minimized": false
+    },
+    "symbols": {
+      "x": 750,
+      "y": 640,
+      "width": 407,
+      "height": 506,
+      "visible": false,
+      "minimized": false
+    },
+    "countdown": {
+      "x": 1080,
+      "y": 600,
+      "width": 400,
+      "height": 240,
+      "visible": false,
+      "minimized": false
+    },
+    "seating": {
+      "x": 50,
+      "y": 70,
+      "width": 700,
+      "height": 500,
+      "visible": true,
+      "minimized": false
+    },
+    "noise_monitor": {
+      "x": 1384,
+      "y": 796,
+      "width": 320,
+      "height": 350,
+      "visible": false,
+      "minimized": false
+    },
+    "qr_code": {
+      "x": 922,
+      "y": 444,
+      "width": 305,
+      "height": 410,
+      "visible": false,
+      "minimized": false
+    },
+    "help": {
+      "x": 1060,
+      "y": 80,
+      "width": 440,
+      "height": 500,
+      "visible": false,
+      "minimized": false
+    }
+  },
+  "text_content": "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n<html><head><meta name=\"qrichtext\" content=\"1\" /><meta charset=\"utf-8\" /><style type=\"text/css\">\np, li { white-space: pre-wrap; }\nhr { height: 1px; border-width: 0; }\nli.unchecked::marker { content: \"\\2610\"; }\nli.checked::marker { content: \"\\2612\"; }\n</style></head><body style=\" font-family:'Segoe UI'; font-size:14px; font-weight:400; font-style:normal;\">\n<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">asdfsadfsadfsadf</p></body></html>",
+  "traffic_lights": {
+    "Tim Braun": "green",
+    "Laura Richter": "green",
+    "Niklas Wolf": "green",
+    "Hannah Schäfer": "green",
+    "David Neumann": "green",
+    "Sarah Schwarz": "green",
+    "Moritz Zimmermann": "green",
+    "Lea Krüger": "green",
+    "Paul Hartmann": "green",
+    "Marie Lange": "green",
+    "Jan Werner": "green",
+    "Clara Peters": "green",
+    "Max Mustermann": "green",
+    "Anna Schmidt": "green",
+    "Leon Weber": "green",
+    "Sophie Fischer": "green",
+    "Lukas Meyer": "green",
+    "Emma Wagner": "green",
+    "Felix Becker": "green",
+    "Mia Hoffmann": "green",
+    "Jonas Schulz": "green",
+    "Lena Koch": "green",
+    "asd ": "green",
+    "asd a": "green",
+    "sdqwe ": "green",
+    "qwe ": "green",
+    "qe ": "green",
+    "Alexander Müller": "yellow",
+    "Katharina Schneider": "green",
+    "Sebastian Bauer": "green",
+    "Julia König": "green",
+    "Maximilian Huber": "yellow",
+    "Sophia Frank": "red",
+    "Tobias Berger": "green",
+    "Amelie Roth": "red",
+    "false": "green"
+  },
+  "ampel_rules": {
+    "green": "asdasdasd",
+    "yellow": "",
+    "red": ""
+  },
+  "noise_thresholds": {
+    "yellow": 5,
+    "red": 10
+  }
+}

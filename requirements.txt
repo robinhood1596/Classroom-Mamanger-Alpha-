@@ -1,0 +1,5 @@
+PyQt6>=6.5
+PyQt6-Qt6>=6.5
+PyQt6-sip
+qrcode[pil]
+python-xlib>=0.33; sys_platform == "linux"

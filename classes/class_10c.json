@@ -1,0 +1,13 @@
+{
+    "class_name": "10c",
+    "students": [
+        {"first_name": "Alexander", "last_name": "Müller"},
+        {"first_name": "Katharina", "last_name": "Schneider"},
+        {"first_name": "Sebastian", "last_name": "Bauer"},
+        {"first_name": "Julia", "last_name": "König"},
+        {"first_name": "Maximilian", "last_name": "Huber"},
+        {"first_name": "Sophia", "last_name": "Frank"},
+        {"first_name": "Tobias", "last_name": "Berger"},
+        {"first_name": "Amelie", "last_name": "Roth"}
+    ]
+}

@@ -1,0 +1,137 @@
+{
+  "class_name": "10c",
+  "toolbar": {
+    "x": 7,
+    "y": 1,
+    "width": 1400
+  },
+  "panels": {
+    "text_editor": {
+      "x": 228,
+      "y": 42,
+      "width": 567,
+      "height": 32,
+      "visible": true,
+      "minimized": true
+    },
+    "student_list": {
+      "x": 2,
+      "y": 18,
+      "width": 200,
+      "height": 240,
+      "visible": false,
+      "minimized": false
+    },
+    "timer": {
+      "x": 875,
+      "y": 165,
+      "width": 540,
+      "height": 580,
+      "visible": false,
+      "minimized": false
+    },
+    "random_name": {
+      "x": 1340,
+      "y": 400,
+      "width": 360,
+      "height": 450,
+      "visible": false,
+      "minimized": false
+    },
+    "traffic_light": {
+      "x": 411,
+      "y": 375,
+      "width": 505,
+      "height": 438,
+      "visible": false,
+      "minimized": false
+    },
+    "symbols": {
+      "x": 1275,
+      "y": 601,
+      "width": 440,
+      "height": 321,
+      "visible": false,
+      "minimized": false
+    },
+    "noise_monitor": {
+      "x": 1340,
+      "y": 435,
+      "width": 378,
+      "height": 673,
+      "visible": false,
+      "minimized": false
+    },
+    "qr_code": {
+      "x": 922,
+      "y": 444,
+      "width": 305,
+      "height": 410,
+      "visible": false,
+      "minimized": false
+    },
+    "help": {
+      "x": 1060,
+      "y": 80,
+      "width": 440,
+      "height": 500,
+      "visible": false,
+      "minimized": false
+    }
+  },
+  "text_content": "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n<html><head><meta name=\"qrichtext\" content=\"1\" /><meta charset=\"utf-8\" /><style type=\"text/css\">\np, li { white-space: pre-wrap; }\nhr { height: 1px; border-width: 0; }\nli.unchecked::marker { content: \"\\2610\"; }\nli.checked::marker { content: \"\\2612\"; }\n</style></head><body style=\" font-family:'Segoe UI'; font-size:14px; font-weight:400; font-style:normal;\">\n<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">asdfsadfsadfsadf</p></body></html>",
+  "traffic_lights": {
+    "Alexander Müller": "red",
+    "Katharina Schneider": "green",
+    "Sebastian Bauer": "green",
+    "Julia König": "green",
+    "Maximilian Huber": "green",
+    "Sophia Frank": "green",
+    "Tobias Berger": "red",
+    "Amelie Roth": "green",
+    "Tim Braun": "green",
+    "Laura Richter": "green",
+    "Niklas Wolf": "green",
+    "Hannah Schäfer": "green",
+    "David Neumann": "green",
+    "Sarah Schwarz": "green",
+    "Moritz Zimmermann": "green",
+    "Lea Krüger": "green",
+    "Paul Hartmann": "green",
+    "Marie Lange": "green",
+    "Jan Werner": "green",
+    "Clara Peters": "green",
+    "Max Mustermann": "green",
+    "Anna Schmidt": "green",
+    "Leon Weber": "green",
+    "Sophie Fischer": "green",
+    "Lukas Meyer": "green",
+    "Emma Wagner": "green",
+    "Felix Becker": "green",
+    "Mia Hoffmann": "green",
+    "Jonas Schulz": "green",
+    "Lena Koch": "green",
+    "asd ": "green",
+    "asd a": "green",
+    "sdqwe ": "green",
+    "qwe ": "green",
+    "qe ": "green",
+    "false": "green"
+  },
+  "ampel_rules": {
+    "green": "asdasd",
+    "yellow": "asdasd",
+    "red": ""
+  },
+  "noise_thresholds": {
+    "yellow": 5,
+    "red": 10
+  },
+  "ampel_counter_settings": {
+    "counter_enabled": true,
+    "counter_to_yellow": 3,
+    "counter_to_red": 2,
+    "yellow_countdown_secs": 600,
+    "red_countdown_secs": 600
+  }
+}

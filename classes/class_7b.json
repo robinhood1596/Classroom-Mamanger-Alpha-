@@ -1,0 +1,17 @@
+{
+    "class_name": "7b",
+    "students": [
+        {"first_name": "Tim", "last_name": "Braun"},
+        {"first_name": "Laura", "last_name": "Richter"},
+        {"first_name": "Niklas", "last_name": "Wolf"},
+        {"first_name": "Hannah", "last_name": "Schäfer"},
+        {"first_name": "David", "last_name": "Neumann"},
+        {"first_name": "Sarah", "last_name": "Schwarz"},
+        {"first_name": "Moritz", "last_name": "Zimmermann"},
+        {"first_name": "Lea", "last_name": "Krüger"},
+        {"first_name": "Paul", "last_name": "Hartmann"},
+        {"first_name": "Marie", "last_name": "Lange"},
+        {"first_name": "Jan", "last_name": "Werner"},
+        {"first_name": "Clara", "last_name": "Peters"}
+    ]
+}
